@@ -12,6 +12,8 @@ This repository contains my 100 Days of Code journey.
 - Stay consistent
 
 ## Progress
-- Day 01 - soon
+- Day 01 - #patterns
+         - diamond
+         - butterfly
+         - hollow rectangle, hollow triangle, hollow diamond
 - Day 02 - Coming soon
-- Day 03 - Coming soon
