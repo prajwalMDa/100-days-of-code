@@ -9,7 +9,7 @@ public class Diamond{
         for(int i=1; i<=n; i++){
             //gap
             for(int j=1; j<=n-i; j++){
-                System.out.print("-");
+                System.out.print(" ");
             }
             //star
             for(int k=1; k<=i+(i-1); k++){
