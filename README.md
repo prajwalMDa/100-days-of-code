@@ -17,3 +17,4 @@ My 100 Days of Code journey — daily coding practice in Java.
 
 - Day 02 - Patterns 
   - ASCII art pattern for 'PRAJWAL' name
+  - soon
