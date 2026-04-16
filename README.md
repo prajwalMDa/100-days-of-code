@@ -22,3 +22,4 @@ My 100 Days of Code journey — daily coding practice in Java.
       - palindromic pattern with numbers
       - binary tree pattern
       - floyds tringle pattern
+  - Hour-glass Pattern
