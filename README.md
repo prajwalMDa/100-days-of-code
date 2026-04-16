@@ -15,4 +15,5 @@ My 100 Days of Code journey — daily coding practice in Java.
   - Hollow Triangle
   - Hollow Diamond
 
-- Day 02 - Coming soon
+- Day 02 - Patterns 
+  - ASCII art pattern for 'PRAJWAL' name
