@@ -1,4 +1,25 @@
-//Given positive integer n, print numeric pattern in form of an hourglass.
+// Question:
+// Given a positive integer n, write a Java program to print a numeric
+// hourglass pattern as shown below:
+//
+// Example (n = 5):
+//
+//  1 2 3 4 5
+//   2 3 4 5
+//    3 4 5
+//     4 5
+//      5
+//     4 5
+//    3 4 5
+//   2 3 4 5
+//  1 2 3 4 5
+//
+// Rules:
+// 1. Pattern should form an hourglass shape
+// 2. Numbers increase from left to right
+// 3. Upper half prints decreasing rows
+// 4. Lower half prints increasing rows
+// 5. Use spaces to properly align the hourglass
 
 import java.util.Scanner;
 public class HourGlass {

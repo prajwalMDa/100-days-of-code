@@ -1,3 +1,46 @@
+// Question:
+// Write a Java program to print different numeric patterns using menu-driven choice.
+//
+// The program should allow the user to choose from the following patterns:
+//
+// 1. Number Pyramid
+// Example (n = 5):
+//     1
+//    2 2
+//   3 3 3
+//  4 4 4 4
+// 5 5 5 5 5
+//
+// 2. Palindromic Number Pattern
+// Example (n = 5):
+//     1
+//    212
+//   32123
+//  4321234
+// 543212345
+//
+// 3. Binary Tree Pattern (0 and 1)
+// Example (n = 5):
+//     1
+//    0 1
+//   1 0 1
+//  0 1 0 1
+// 1 0 1 0 1
+//
+// 4. Floyd's Triangle
+// Example (n = 5):
+//     1
+//    2 3
+//   4 5 6
+//  7 8 9 10
+// 11 12 13 14 15
+//
+// Requirements:
+// 1. Use menu-driven program
+// 2. Take user input for height
+// 3. Use loops to generate patterns
+// 4. Continue until user selects exit option
+
 import java.util.Scanner;
 public class Numpattern {
 

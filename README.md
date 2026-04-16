@@ -23,3 +23,4 @@ My 100 Days of Code journey — daily coding practice in Java.
       - binary tree pattern
       - floyds tringle pattern
   - Hour-glass Pattern
+  - Zig-Zag Multiplication Pattern
