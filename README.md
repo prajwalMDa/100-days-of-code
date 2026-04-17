@@ -24,3 +24,12 @@ My 100 Days of Code journey — daily coding practice in Java.
       - floyds tringle pattern
   - Hour-glass Pattern
   - Zig-Zag Multiplication Pattern
+
+- Day 03 - Array and Functions
+  - Conversions
+      - Binary to Decimal
+      - Decimal to Binary
+  - Prime numbers in Range
+  - Linear search using Array
+  - Binary Search
+  - Largest and Smallest element in Array
