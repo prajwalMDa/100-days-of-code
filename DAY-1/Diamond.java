@@ -41,5 +41,6 @@ public class Diamond{
         Scanner sc = new Scanner(System.in);
         System.out.print("enter size of diamond: ");
         diamond(sc.nextInt());
+        sc.close();
     }
 }
