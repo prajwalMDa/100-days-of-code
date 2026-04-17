@@ -33,3 +33,5 @@ My 100 Days of Code journey — daily coding practice in Java.
   - Linear search using Array
   - Binary Search
   - Largest and Smallest element in Array
+
+- Day 04 - SOON.. <3
