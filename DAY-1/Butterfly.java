@@ -39,5 +39,7 @@ public class Butterfly {
         System.out.print("Enter the size of the butterfly: ");
         Scanner sc = new Scanner(System.in);
         butterfly(sc.nextInt());
+
+        sc.close();
     }
 }
