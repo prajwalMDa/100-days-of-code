@@ -111,6 +111,7 @@ public class HollowShapes {
 
             }
 
+            sc.close();
         }while(choice!=4);
             
            
