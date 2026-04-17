@@ -155,6 +155,8 @@ public class Numpattern {
                 System.out.print("\ninvalid input...\n");
             }
         }while(choice != 5);
+
+        sc.close();
     }
 
 
