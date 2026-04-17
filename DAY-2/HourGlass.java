@@ -58,6 +58,8 @@ public class HourGlass {
         Scanner sc = new Scanner(System.in);
         System.out.print("n: ");
         HG(sc.nextInt());
+
+        sc.close();
     }
 
 
