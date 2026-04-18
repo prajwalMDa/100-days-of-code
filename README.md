@@ -48,4 +48,6 @@ My 100 Days of Code journey — daily coding practice in Java.
   - Unique pairs of Array
   - Reversing Array
   - Unique Sub Array
-  - MAX and MIN of Array - that is sum of Subarray of parent array
+  - Maximum and Minimum Subarray Sum (Brute Force)
+
+- Day 05 - SOON..  <3
