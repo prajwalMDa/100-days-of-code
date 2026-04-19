@@ -51,4 +51,5 @@ My 100 Days of Code journey — daily coding practice in Java.
   - Maximum and Minimum Subarray Sum (Brute Force)
 
 - Day 05 - Array
-  - SOON.. <3
+  - Maximum and Minimum Subarray Sum (Time Complexity = O(n²))
+  - Maximum Subarray Sum (Kadane's algorithm)
