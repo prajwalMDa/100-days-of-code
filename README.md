@@ -53,3 +53,9 @@ My 100 Days of Code journey — daily coding practice in Java.
 - Day 05 - Array
   - Maximum and Minimum Subarray Sum (Time Complexity = O(n²))
   - Maximum Subarray Sum (Kadane's algorithm)
+
+- Day 06 - Array
+  - Trapping Rain Water - Question number 42 HARD level problem in leetcode
+      - Given n non-negative integers representing an elevation map where the width of    each bar is 1, compute how much water it can trap after raining.
+
+- Day 07 - SOON...
