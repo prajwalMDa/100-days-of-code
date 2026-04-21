@@ -58,4 +58,7 @@ My 100 Days of Code journey — daily coding practice in Java.
   - Trapping Rain Water - Question number 42 HARD level problem in leetcode
       - Given n non-negative integers representing an elevation map where the width of    each bar is 1, compute how much water it can trap after raining.
 
-- Day 07 - SOON...
+- Day 07 - Array (LEET-Code practise)
+  - Construct Transformed Array
+  - Palindrome or not
+  - is Power Of Two
