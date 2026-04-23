@@ -63,5 +63,5 @@ My 100 Days of Code journey — daily coding practice in Java.
   - Palindrome or not
   - is Power Of Two
 
-- Day 08 - Array (LEET-Code practise)
-  - Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
+- Day 08 - Array (DPP)
+  - Problem: Check for Duplicate Elements in an Array
