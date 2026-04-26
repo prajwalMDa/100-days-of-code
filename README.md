@@ -65,3 +65,15 @@ My 100 Days of Code journey — daily coding practice in Java.
 
 - Day 08 - Array (DPP)
   - Problem: Check for Duplicate Elements in an Array
+
+- Day 09 - Practice
+  - no commits
+
+- Day 10 - Practice
+  - no commits
+
+- Day 11 - Sorting algorithms[Array]
+  - Bubble Sort
+  - Selection Sort
+  - Insertion Sort
+  - Counting Sort
