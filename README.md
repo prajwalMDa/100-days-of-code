@@ -19,6 +19,8 @@ My 100 Days of Code journey — daily coding practice in Java.
 
 ## Progress
 - Day 01 - Patterns
+🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-1
+
   - Diamond
   - Butterfly
   - Hollow Rectangle
@@ -26,6 +28,8 @@ My 100 Days of Code journey — daily coding practice in Java.
   - Hollow Diamond
 
 - Day 02 - Patterns 
+🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-2
+
   - ASCII art pattern for 'PRAJWAL' name
   - numbers pattern
       - number pyramid pattern
@@ -36,6 +40,8 @@ My 100 Days of Code journey — daily coding practice in Java.
   - Zig-Zag Multiplication Pattern
 
 - Day 03 - Array and Functions
+🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-3
+
   - Conversions
       - Binary to Decimal
       - Decimal to Binary
@@ -45,34 +51,50 @@ My 100 Days of Code journey — daily coding practice in Java.
   - Largest and Smallest element in Array
 
 - Day 04 - Array
+🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-4
+
   - Unique pairs of Array
   - Reversing Array
   - Unique Sub Array
   - Maximum and Minimum Subarray Sum (Brute Force)
 
 - Day 05 - Array
+🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-5
+
   - Maximum and Minimum Subarray Sum (Time Complexity = O(n²))
   - Maximum Subarray Sum (Kadane's algorithm)
 
 - Day 06 - Array
+🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-6
+
   - Trapping Rain Water - Question number 42 HARD level problem in leetcode
       - Given n non-negative integers representing an elevation map where the width of    each bar is 1, compute how much water it can trap after raining.
 
 - Day 07 - Array (LEET-Code practise)
+🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-7
+
   - Construct Transformed Array
   - Palindrome or not
   - is Power Of Two
 
 - Day 08 - Array (DPP)
+🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-8
+
   - Problem: Check for Duplicate Elements in an Array
 
 - Day 09 - Practice
+🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-9
+
   - no commits
 
 - Day 10 - Practice
+🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-10
+
   - no commits
 
 - Day 11 - Sorting algorithms[Array]
+🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-11
+
   - Bubble Sort
   - Selection Sort
   - Insertion Sort
