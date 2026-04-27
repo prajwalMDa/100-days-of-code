@@ -99,3 +99,15 @@ My 100 Days of Code journey — daily coding practice in Java.
   - Selection Sort
   - Insertion Sort
   - Counting Sort
+
+
+- Day 12 - 2D Array
+🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-12
+
+  - Input & Output of 2D Array
+  - Traversing Matrix
+  - Search in Matrix
+  - Maximum & Minimum in Matrix
+
+- Day 12 - 2D Array
+  - soon...
