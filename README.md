@@ -37,7 +37,8 @@
 
 ![Day 01](https://readme-typing-svg.herokuapp.com?color=79ff97&size=22&repeat=true&width=400&lines=🟢+Day+01+-+Patterns) 
 <br>
-🔗 [![Day 01](https://img.shields.io/badge/Day%2001-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-001)  
+🔗 [![Day 01](https://img.shields.io/badge/Day%2001-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-001) 
+ 
 **Programs:**
 - Diamond  
 - Butterfly  
