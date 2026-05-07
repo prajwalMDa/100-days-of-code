@@ -14,7 +14,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prajwalMDa&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalMDa&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
@@ -37,6 +36,7 @@
 ---
 
 ![Day 01](https://readme-typing-svg.herokuapp.com?color=79ff97&size=22&repeat=true&width=400&lines=🟢+Day+01+-+Patterns) 
+<br>
 🔗 [![Day 01](https://img.shields.io/badge/Day%2001-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-001)  
 **Programs:**
 - Diamond  
