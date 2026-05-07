@@ -1,1 +1,6 @@
-no commits , just practiced previous algorithm and tehniques <3
+🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-004
+  - Practiced previous algorithms
+    - Unique pairs of Array
+    - Reversing Array
+    - Unique Sub Array
+    - Maximum and Minimum Subarray Sum (Brute Force)

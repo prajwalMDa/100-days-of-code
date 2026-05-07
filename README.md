@@ -19,7 +19,7 @@ My 100 Days of Code journey — daily coding practice in Java.
 
 ## Progress
 - Day 01 - Patterns
-🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-1
+🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-001
 
   - Diamond
   - Butterfly
@@ -28,7 +28,7 @@ My 100 Days of Code journey — daily coding practice in Java.
   - Hollow Diamond
 
 - Day 02 - Patterns 
-🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-2
+🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-002
 
   - ASCII art pattern for 'PRAJWAL' name
   - numbers pattern
@@ -40,7 +40,7 @@ My 100 Days of Code journey — daily coding practice in Java.
   - Zig-Zag Multiplication Pattern
 
 - Day 03 - Array and Functions
-🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-3
+🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-003
 
   - Conversions
       - Binary to Decimal
@@ -51,7 +51,7 @@ My 100 Days of Code journey — daily coding practice in Java.
   - Largest and Smallest element in Array
 
 - Day 04 - Array
-🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-4
+🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-004
 
   - Unique pairs of Array
   - Reversing Array
@@ -59,41 +59,46 @@ My 100 Days of Code journey — daily coding practice in Java.
   - Maximum and Minimum Subarray Sum (Brute Force)
 
 - Day 05 - Array
-🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-5
+🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-005
 
   - Maximum and Minimum Subarray Sum (Time Complexity = O(n²))
   - Maximum Subarray Sum (Kadane's algorithm)
 
 - Day 06 - Array
-🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-6
+🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-006
 
   - Trapping Rain Water - Question number 42 HARD level problem in leetcode
       - Given n non-negative integers representing an elevation map where the width of    each bar is 1, compute how much water it can trap after raining.
 
 - Day 07 - Array (LEET-Code practise)
-🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-7
+🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-007
 
   - Construct Transformed Array
   - Palindrome or not
   - is Power Of Two
 
 - Day 08 - Array (DPP)
-🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-8
+🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-008
 
   - Problem: Check for Duplicate Elements in an Array
 
 - Day 09 - Practice
-🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-9
+🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-005
 
-  - no commits
+  - Practiced previous algorithms
+    - Maximum and Minimum Subarray Sum (Time Complexity = O(n²))
+    - Maximum Subarray Sum (Kadane's algorithm)
 
 - Day 10 - Practice
-🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-10
-
-  - no commits
+🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-004
+  - Practiced previous algorithms
+    - Unique pairs of Array
+    - Reversing Array
+    - Unique Sub Array
+    - Maximum and Minimum Subarray Sum (Brute Force)
 
 - Day 11 - Sorting algorithms[Array]
-🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-11
+🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-011
 
   - Bubble Sort
   - Selection Sort
@@ -102,12 +107,83 @@ My 100 Days of Code journey — daily coding practice in Java.
 
 
 - Day 12 - 2D Array
-🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-12
+🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-012
 
   - Input & Output of 2D Array
   - Traversing Matrix
   - Search in Matrix
   - Maximum & Minimum in Matrix
 
-- Day 12 - 2D Array
-  - soon...
+
+- Day 13 - 2D Array
+  - Diagonal Sum of Matrix
+  - Sprial Matrix
+
+
+
+- Day 14 - 2D Array
+  - Diagonal Sum of Matrix(Optimised)
+  - Repeated Numbers
+
+
+- Day 15 - Strings
+  - Reverse String
+  - Largest String
+  - Longest String
+  - Best Route in MAP (N S E W)
+  - Palendrome or not
+
+
+- Day 16 - Strings
+  - String Compression
+  - Is Anagrams
+  - Find number of vowels in String
+  - First word Upper in sentence
+
+
+- Day 17 - Bit Manipulation
+  - Bitwise Operator
+    - AND
+    - OR
+    - XOR
+    - 1's Compliment
+    - 2's Compliment
+    - Bitwise Left Shift And Right Shift
+
+
+- Day 18 - Bit Manipulation
+  - Get Bit
+  - Set Bit
+  - Clear Bit
+  - Update Bit
+  - Count Set Bits
+  - Power Of Two
+  - Swap Two Numbers Without Temp Variable
+
+
+- Day 19 - OOPS
+  - Classes And Objects
+  - Encapsulation
+  - Getters And Setters For Controlled Access
+  - Constructios
+  - Access Modifiers
+
+
+- Day 20 - OOPS
+  - Constructors
+    - Sollow Copy
+    - Deep Copy
+  - Inheritance
+    - Single Level
+    - Multi Level
+    
+
+- Day 21 - OOPS
+  - Polymorphism
+    - Mehtod Overloading
+    - Method Overriding
+  - Interfaces For Multiple Inheritance
+  - Inheritance
+    - Hierarchical
+    - Multilevel
+    - Hybrid

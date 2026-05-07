@@ -1,0 +1,4 @@
+  - Practiced previous algorithms
+  🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-005
+    - Maximum and Minimum Subarray Sum (Time Complexity = O(n²))
+    - Maximum Subarray Sum (Kadane's algorithm)
