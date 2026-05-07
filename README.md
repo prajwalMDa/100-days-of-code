@@ -3,84 +3,243 @@
 <h3 align="center">Java • DSA • Consistency</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Day+by+Day+Improvement...;Java+%2B+DSA+Journey;Consistency+is+Power+💪;Building+Strong+Foundations" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Day+by+Day+Improvement...;Java+%2B+DSA+Journey;Consistency+is+Power+💪;Building+Strong+Foundations" />
 </p>
 
 ---
 
-## 🧠 About This Journey
-- 💻 Daily coding in **Java**
-- 📚 Focus on **Data Structures & Algorithms**
-- 🔥 Building discipline & problem-solving mindset
-
----
-
-## 🏷️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,github" />
-</p>
-
----
-
-## 📊 Progress Tracker
-
-| Day | Topic | Link |
-|-----|------|------|
-| 01 | Patterns | [View](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-001) |
-| 02 | Patterns | [View](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-002) |
-| 03 | Arrays & Functions | [View](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-003) |
-| 04 | Arrays | [View](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-004) |
-| 05 | Arrays | [View](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-005) |
-| 06 | Arrays (Trapping Rain Water) | [View](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-006) |
-| 07 | Practice | [View](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-007) |
-| 08 | Arrays | [View](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-008) |
-| 09 | Revision | [View](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-009) |
-| 10 | Revision | [View](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-010) |
-| 11 | Sorting | [View](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-011) |
-| 12 | 2D Arrays | [View](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-012) |
-| 13 | 2D Arrays | [View](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-013) |
-| 14 | 2D Arrays | [View](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-014) |
-| 15 | Strings | [View](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-015) |
-| 16 | Strings | [View](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-016) |
-| 17 | Bit Manipulation | [View](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-017) |
-| 18 | Bit Manipulation | [View](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-018) |
-| 19 | OOP | [View](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-019) |
-| 20 | OOP | [View](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-020) |
-| 21 | OOP | [View](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-021) |
-| 22 | OOP | [View](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-022) |
-
----
-
-## 📈 GitHub Stats (Live)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwalMDa&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=prajwalMDa&theme=tokyonight" />
-</p>
-
----
-
-## 🧩 What I’ve Learned So Far
-- Arrays, Strings, and Bit Manipulation  
-- Sorting Algorithms  
-- Problem Solving (LeetCode)  
-- Object-Oriented Programming (OOP)  
-
----
-
-## 🔥 Current Focus
-- Improving DSA problem-solving speed  
-- Writing cleaner, optimized code  
-- Staying consistent every day  
-
----
-
-## 💡 Quote
-<p align="center">
-  <i>"Consistency beats intensity."</i>
-</p>
-
----
+## 📊 GitHub Stats (Live)
 
 <p align="center">
-  ⭐ If you like this journey, consider giving it a star!
+  <img src="https://github-readme-stats.vercel.app/api?username=prajwalMDa&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=prajwalMDa&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalMDa&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 📊 Progress
+
+<p align="center">
+
+`██████████████████████░░░░░░░░░░░░░░░░░░░░░░ 22%`
+
+🔥 **22 / 100 Days Completed**
+
+</p>
+
+---
+
+## 📈 Daily Journey
+
+---
+
+### 🟢 Day 01 – Patterns  
+🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-001  
+**Programs:**
+- Diamond  
+- Butterfly  
+- Hollow Rectangle  
+- Hollow Triangle  
+- Hollow Diamond  
+
+---
+
+### 🟢 Day 02 – Patterns  
+🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-002  
+**Programs:**
+- ASCII Pattern ("PRAJWAL")  
+- Number Pyramid  
+- Palindromic Pattern  
+- Floyd’s Triangle  
+- Binary Pattern  
+- Hourglass Pattern  
+- Zig-Zag Pattern  
+
+---
+
+### 🟢 Day 03 – Arrays & Functions  
+🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-003  
+**Programs:**
+- Binary ↔ Decimal Conversion  
+- Prime Numbers in Range  
+- Linear Search  
+- Binary Search  
+- Largest & Smallest Element  
+
+---
+
+### 🟢 Day 04 – Arrays  
+🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-004  
+**Programs:**
+- Unique Pairs  
+- Reverse Array  
+- Subarrays  
+- Max & Min Subarray Sum (Brute Force)  
+
+---
+
+### 🟢 Day 05 – Arrays  
+🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-005  
+**Programs:**
+- Max & Min Subarray Sum (O(n²))  
+- Kadane’s Algorithm  
+
+---
+
+### 🟢 Day 06 – Arrays  
+🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-006  
+**Programs:**
+- Trapping Rain Water (LeetCode Hard)  
+
+---
+
+### 🟢 Day 07 – Practice  
+🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-007  
+**Programs:**
+- Construct Transformed Array  
+- Palindrome Check  
+- Power of Two  
+
+---
+
+### 🟢 Day 08 – Arrays  
+🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-008  
+**Programs:**
+- Check Duplicate Elements  
+
+---
+
+### 🟢 Day 09 – Revision  
+🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-009  
+**Programs:**
+- Subarray Problems  
+- Kadane’s Algorithm  
+
+---
+
+### 🟢 Day 10 – Revision  
+🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-010  
+**Programs:**
+- Array Practice  
+- Reverse & Pairs  
+
+---
+
+### 🟢 Day 11 – Sorting  
+🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-011  
+**Programs:**
+- Bubble Sort  
+- Selection Sort  
+- Insertion Sort  
+- Counting Sort  
+
+---
+
+### 🟢 Day 12 – 2D Arrays  
+🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-012  
+**Programs:**
+- Matrix Input/Output  
+- Traversal  
+- Search  
+- Max & Min  
+
+---
+
+### 🟢 Day 13 – 2D Arrays  
+🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-013  
+**Programs:**
+- Diagonal Sum  
+- Spiral Matrix  
+
+---
+
+### 🟢 Day 14 – 2D Arrays  
+🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-014  
+**Programs:**
+- Optimized Diagonal Sum  
+- Repeated Elements  
+
+---
+
+### 🟢 Day 15 – Strings  
+🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-015  
+**Programs:**
+- Reverse String  
+- Largest & Longest String  
+- Path Finding (NSEW)  
+- Palindrome  
+
+---
+
+### 🟢 Day 16 – Strings  
+🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-016  
+**Programs:**
+- String Compression  
+- Anagrams  
+- Count Vowels  
+- Capitalize Sentence  
+
+---
+
+### 🟢 Day 17 – Bit Manipulation  
+🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-017  
+**Programs:**
+- AND, OR, XOR  
+- Complement  
+- Bit Shifts  
+
+---
+
+### 🟢 Day 18 – Bit Manipulation  
+🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-018  
+**Programs:**
+- Get / Set / Clear / Update Bit  
+- Count Set Bits  
+- Power of Two  
+- Swap Without Temp  
+
+---
+
+### 🟢 Day 19 – OOP  
+🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-019  
+**Programs:**
+- Classes & Objects  
+- Encapsulation  
+- Getters & Setters  
+- Constructors  
+- Access Modifiers  
+
+---
+
+### 🟢 Day 20 – OOP  
+🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-020  
+**Programs:**
+- Shallow Copy  
+- Deep Copy  
+- Inheritance (Single, Multilevel)  
+
+---
+
+### 🟢 Day 21 – OOP  
+🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-021  
+**Programs:**
+- Method Overloading  
+- Method Overriding  
+- Interfaces  
+- Hybrid Inheritance  
+
+---
+
+### 🟢 Day 22 – OOP  
+🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-022  
+**Programs:**
+- Work in Progress  
+
+---
+
+## 💬 Quote
+> "Consistency beats intensity."
