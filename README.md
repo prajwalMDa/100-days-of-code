@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">🚀 100 Days of Code</h1>
+<h1 align="center">100 Days of Code</h1>
 <h3 align="center">Java • DSA • Consistency</h3>
 
 <p align="center">
@@ -8,9 +8,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prajwalMDa&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=prajwalMDa&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalMDa&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prajwalMDa&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -19,7 +28,7 @@
 
 ---
 
-## 📊 Progress
+## Progress
 
 <p align="center">
 
