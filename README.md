@@ -1,7 +1,10 @@
-# 100 Days of Code
+<!-- HEADER -->
+<h1 align="center">100 Days of Code</h1>
+<h3 align="center">Java • DSA • Consistency</h3>
 
-### Java • DSA • Consistency
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Day+by+Day+Improvement;Java+%2B+DSA+Journey;Consistency+is+Power+💪;Building+Strong+Foundations" />
+</p>
 ---
 
 ## 📊 GitHub Stats
