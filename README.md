@@ -27,6 +27,8 @@ My 100 Days of Code journey — daily coding practice in Java.
   - Hollow Triangle
   - Hollow Diamond
 
+
+
 - Day 02 - Patterns 
 🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-002
 
@@ -39,6 +41,8 @@ My 100 Days of Code journey — daily coding practice in Java.
   - Hour-glass Pattern
   - Zig-Zag Multiplication Pattern
 
+
+
 - Day 03 - Array and Functions
 🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-003
 
@@ -50,6 +54,8 @@ My 100 Days of Code journey — daily coding practice in Java.
   - Binary Search
   - Largest and Smallest element in Array
 
+
+
 - Day 04 - Array
 🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-004
 
@@ -58,17 +64,23 @@ My 100 Days of Code journey — daily coding practice in Java.
   - Unique Sub Array
   - Maximum and Minimum Subarray Sum (Brute Force)
 
+
+
 - Day 05 - Array
 🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-005
 
   - Maximum and Minimum Subarray Sum (Time Complexity = O(n²))
   - Maximum Subarray Sum (Kadane's algorithm)
 
+
+
 - Day 06 - Array
 🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-006
 
   - Trapping Rain Water - Question number 42 HARD level problem in leetcode
       - Given n non-negative integers representing an elevation map where the width of    each bar is 1, compute how much water it can trap after raining.
+
+
 
 - Day 07 - Array (LEET-Code practise)
 🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-007
@@ -77,10 +89,14 @@ My 100 Days of Code journey — daily coding practice in Java.
   - Palindrome or not
   - is Power Of Two
 
+
+
 - Day 08 - Array (DPP)
 🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-008
 
   - Problem: Check for Duplicate Elements in an Array
+
+
 
 - Day 09 - Practice
 🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-005
@@ -89,13 +105,18 @@ My 100 Days of Code journey — daily coding practice in Java.
     - Maximum and Minimum Subarray Sum (Time Complexity = O(n²))
     - Maximum Subarray Sum (Kadane's algorithm)
 
+
+
 - Day 10 - Practice
 🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-004
+
   - Practiced previous algorithms
     - Unique pairs of Array
     - Reversing Array
     - Unique Sub Array
     - Maximum and Minimum Subarray Sum (Brute Force)
+
+
 
 - Day 11 - Sorting algorithms[Array]
 🔗https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-011
@@ -104,6 +125,7 @@ My 100 Days of Code journey — daily coding practice in Java.
   - Selection Sort
   - Insertion Sort
   - Counting Sort
+
 
 
 - Day 12 - 2D Array
@@ -115,8 +137,10 @@ My 100 Days of Code journey — daily coding practice in Java.
   - Maximum & Minimum in Matrix
 
 
+
 - Day 13 - 2D Array
 🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-013
+
   - Diagonal Sum of Matrix
   - Sprial Matrix
 
@@ -124,12 +148,15 @@ My 100 Days of Code journey — daily coding practice in Java.
 
 - Day 14 - 2D Array
 🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-014
+
   - Diagonal Sum of Matrix(Optimised)
   - Repeated Numbers
 
 
+
 - Day 15 - Strings
 🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-015
+
   - Reverse String
   - Largest String
   - Longest String
@@ -137,16 +164,21 @@ My 100 Days of Code journey — daily coding practice in Java.
   - Palendrome or not
 
 
+
+
 - Day 16 - Strings
 🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-016
+
   - String Compression
   - Is Anagrams
   - Find number of vowels in String
   - First word Upper in sentence
 
 
+
 - Day 17 - Bit Manipulation
 🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-017
+
   - Bitwise Operator
     - AND
     - OR
@@ -156,8 +188,10 @@ My 100 Days of Code journey — daily coding practice in Java.
     - Bitwise Left Shift And Right Shift
 
 
+
 - Day 18 - Bit Manipulation
 🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-018
+
   - Get Bit
   - Set Bit
   - Clear Bit
@@ -167,8 +201,10 @@ My 100 Days of Code journey — daily coding practice in Java.
   - Swap Two Numbers Without Temp Variable
 
 
+
 - Day 19 - OOPS
 🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-019
+
   - Classes And Objects
   - Encapsulation
   - Getters And Setters For Controlled Access
@@ -176,8 +212,10 @@ My 100 Days of Code journey — daily coding practice in Java.
   - Access Modifiers
 
 
+
 - Day 20 - OOPS
 🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-020
+
   - Constructors
     - Sollow Copy
     - Deep Copy
@@ -186,8 +224,10 @@ My 100 Days of Code journey — daily coding practice in Java.
     - Multi Level
     
 
+
 - Day 21 - OOPS
 🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-021
+
   - Polymorphism
     - Mehtod Overloading
     - Method Overriding
@@ -196,6 +236,8 @@ My 100 Days of Code journey — daily coding practice in Java.
     - Hierarchical
     - Multilevel
     - Hybrid
+
+
 
 -Day 22 - OOPS
 🔗 https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-022
