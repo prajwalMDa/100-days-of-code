@@ -35,7 +35,7 @@
 ### 🟢 Day 01 - Patterns
 [![View Day 01](https://img.shields.io/badge/Day%2001-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-001)
 
-**Programs:**
+**Progress**
 - Diamond  
 - Butterfly  
 - Hollow Rectangle  
@@ -47,7 +47,7 @@
 ### 🟢 Day 02 - Patterns
 [![View Day 02](https://img.shields.io/badge/Day%2002-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-002)
 
-**Programs:**
+**Progress**
 - ASCII Pattern ("PRAJWAL")  
 - Number Pyramid  
 - Palindromic Pattern  
@@ -61,7 +61,7 @@
 ### 🟢 Day 03 - Arrays & Functions
 [![View Day 03](https://img.shields.io/badge/Day%2003-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-003)
 
-**Programs:**
+*Progress:**
 - Binary ↔ Decimal Conversion  
 - Prime Numbers in Range  
 - Linear Search  
@@ -73,7 +73,7 @@
 ### 🟢 Day 04 - Arrays
 [![View Day 04](https://img.shields.io/badge/Day%2004-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-004)
 
-**Programs:**
+**Progress**
 - Unique Pairs  
 - Reverse Array  
 - Subarrays  
@@ -84,7 +84,7 @@
 ### 🟢 Day 05 - Arrays
 [![View Day 05](https://img.shields.io/badge/Day%2005-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-005)
 
-**Programs:**
+**Progress**
 - Max & Min Subarray Sum (O(n²))  
 - Kadane’s Algorithm  
 
@@ -93,7 +93,7 @@
 ### 🟢 Day 06 - Arrays
 [![View Day 06](https://img.shields.io/badge/Day%2006-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-006)
 
-**Programs:**
+**Progress**
 - Trapping Rain Water  
 
 ---
@@ -101,7 +101,7 @@
 ### 🟢 Day 07 - Practice
 [![View Day 07](https://img.shields.io/badge/Day%2007-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-007)
 
-**Programs:**
+**Progress**
 - Construct Transformed Array  
 - Palindrome Check  
 - Power of Two  
@@ -111,7 +111,7 @@
 ### 🟢 Day 08 - Arrays
 [![View Day 08](https://img.shields.io/badge/Day%2008-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-008)
 
-**Programs:**
+**Progress**
 - Check Duplicate Elements  
 
 ---
@@ -119,7 +119,7 @@
 ### 🟢 Day 09 - Revision
 [![View Day 09](https://img.shields.io/badge/Day%2009-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-009)
 
-**Programs:**
+**Progress**
 - Subarray Problems  
 - Kadane’s Algorithm  
 
@@ -128,7 +128,7 @@
 ### 🟢 Day 10 - Revision
 [![View Day 10](https://img.shields.io/badge/Day%2010-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-010)
 
-**Programs:**
+**Progress**
 - Array Practice  
 - Reverse & Pairs  
 
@@ -137,7 +137,7 @@
 ### 🟢 Day 11 - Sorting
 [![View Day 11](https://img.shields.io/badge/Day%2011-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-011)
 
-**Programs:**
+**Progress**
 - Bubble Sort  
 - Selection Sort  
 - Insertion Sort  
@@ -148,7 +148,7 @@
 ### 🟢 Day 12 - 2D Arrays
 [![View Day 12](https://img.shields.io/badge/Day%2012-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-012)
 
-**Programs:**
+**Progress**
 - Matrix Input/Output  
 - Traversal  
 - Search  
@@ -159,7 +159,7 @@
 ### 🟢 Day 13 - 2D Arrays
 [![View Day 13](https://img.shields.io/badge/Day%2013-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-013)
 
-**Programs:**
+**Progress**
 - Diagonal Sum  
 - Spiral Matrix  
 
@@ -168,7 +168,7 @@
 ### 🟢 Day 14 - 2D Arrays
 [![View Day 14](https://img.shields.io/badge/Day%2014-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-014)
 
-**Programs:**
+**Progress**
 - Optimized Diagonal Sum  
 - Repeated Elements  
 
@@ -177,7 +177,7 @@
 ### 🟢 Day 15 - Strings
 [![View Day 15](https://img.shields.io/badge/Day%2015-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-015)
 
-**Programs:**
+**Progress**
 - Reverse String  
 - Longest String  
 - Path Finding  
@@ -188,7 +188,7 @@
 ### 🟢 Day 16 - Strings
 [![View Day 16](https://img.shields.io/badge/Day%2016-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-016)
 
-**Programs:**
+**Progress**
 - String Compression  
 - Anagrams  
 - Count Vowels  
@@ -199,7 +199,7 @@
 ### 🟢 Day 17 - Bit Manipulation
 [![View Day 17](https://img.shields.io/badge/Day%2017-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-017)
 
-**Programs:**
+**Progress**
 - AND, OR, XOR  
 - Complement  
 - Bit Shifts  
@@ -209,7 +209,7 @@
 ### 🟢 Day 18 - Bit Manipulation
 [![View Day 18](https://img.shields.io/badge/Day%2018-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-018)
 
-**Programs:**
+**Progress**
 - Get / Set / Clear / Update Bit  
 - Count Set Bits  
 - Power of Two  
@@ -220,7 +220,7 @@
 ### 🟢 Day 19 - OOP
 [![View Day 19](https://img.shields.io/badge/Day%2019-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-019)
 
-**Programs:**
+**Progress**
 - Classes & Objects  
 - Encapsulation  
 - Getters & Setters  
@@ -232,7 +232,7 @@
 ### 🟢 Day 20 - OOP
 [![View Day 20](https://img.shields.io/badge/Day%2020-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-020)
 
-**Programs:**
+**Progress**
 - Shallow Copy  
 - Deep Copy  
 - Inheritance  
@@ -242,7 +242,7 @@
 ### 🟢 Day 21 - OOP
 [![View Day 21](https://img.shields.io/badge/Day%2021-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-021)
 
-**Programs:**
+**Progress**
 - Method Overloading  
 - Method Overriding  
 - Interfaces  
@@ -250,8 +250,22 @@
 
 ---
 
+### 🟢 Day 22 - OOP
+[![View Day 22](https://img.shields.io/badge/Day%2021-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-022)
+
+**Progress**
+- Abstract Class  
+- Interfaces(blueprint)  
+- Impliment vs Extends  
+- Multiple inheritence using Abstract
+- Super And Static Keyword
+- Execution Flo
+- Operations Of Complex Numbers - using class
+
+---
+
 ### 🟢 Progress
-[![View Day 22](https://img.shields.io/badge/Progress-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-022)
+[![View Day 23](https://img.shields.io/badge/Progress-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-022)
 
 **Programs:**
 - Work in Progress  
