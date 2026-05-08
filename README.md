@@ -271,10 +271,7 @@
 - Work in Progress  
 
 --- -->
-## Progress
-
-![Progress](https://progress-bar.dev/70/?title=OOP)
-
+![Progress](https://img.shields.io/badge/Progress-70%25-blue?style=for-the-badge)
 ## 💬 Quote
 
 > "Consistency beats intensity."
