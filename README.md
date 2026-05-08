@@ -8,7 +8,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=prajwalMDa&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
@@ -19,11 +19,11 @@
 ## 📈 Progress
 
 <p align="center">
-  █████████░░░░░░░░░░░░░░░░ 22%
+  █████████░░░░░░░░░░░░░░░░ 23%
 </p>
 
 <p align="center">
-🔥 22 / 100 Days Completed
+🔥 23 / 100 Days Completed
 </p>
 
 ---
