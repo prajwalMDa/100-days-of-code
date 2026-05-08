@@ -251,15 +251,15 @@
 ---
 
 ### 🟢 Day 22 - OOP
-[![View Day 22](https://img.shields.io/badge/Day%2021-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-022)
+[![View Day 22](https://img.shields.io/badge/Day%2022-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-022)
 
 **Progress**
 - Abstract Class  
 - Interfaces(blueprint)  
-- Impliment vs Extends  
-- Multiple inheritence using Abstract
+- Implement vs Extends  
+- Multiple inheritance using Interfaces
 - Super And Static Keyword
-- Execution Flo
+- Execution Flow
 - Operations Of Complex Numbers - using class
 
 ---
