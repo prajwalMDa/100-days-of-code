@@ -264,13 +264,16 @@
 
 ---
 
-### 🟢 Progress
+<!-- ### 🟢 Progress
 [![View Day 23](https://img.shields.io/badge/Progress-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-023)
 
 **Programs:**
 - Work in Progress  
 
----
+--- -->
+## Progress
+
+![Progress](https://progress-bar.dev/70/?title=OOP)
 
 ## 💬 Quote
 
