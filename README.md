@@ -251,7 +251,7 @@
 ---
 
 ### 🟢 Day 22 - OOP
-[![View Day 22](https://img.shields.io/badge/Day%2021-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-022)
+[![View Day 23](https://img.shields.io/badge/Day%2021-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-022)
 
 **Progress**
 - Abstract Class  
