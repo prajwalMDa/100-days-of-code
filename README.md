@@ -276,8 +276,35 @@
 
 ---
 
+### 🟢 Day 24 - Recursion Basics  
+[![View Day 24](https://img.shields.io/badge/Day%2024-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-024)
+
+**Progress**
+- First occurrence of element in array
+- Last occurrence of element in array
+- Power of Xⁿ using recursion
+- Optimized Power (Fast Exponentiation)
+- Recursive array traversal
+- Recursive return tracing
+
+---
+
+### 🟢 Day 25 - Recursion Basics  
+[![View Day 25](https://img.shields.io/badge/Day%2025-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-025)
+
+**Progress**
+- Remove duplicates from a string recursively
+- Friends Pairing Problem
+- Recursive string traversal
+- Recursive branching logic
+- Tiling Problem
+- Debugging recursive call flows
+
+
+---
+
 ### 🟢 Progress
-[![View Day 24](https://img.shields.io/badge/Progress-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-024)
+[![View Day 26](https://img.shields.io/badge/Progress-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-026)
 
 **Programs:**
 - Work in Progress  
