@@ -19,11 +19,11 @@
 ## 📈 Progress
 
 <p align="center">
-  █████████░░░░░░░░░░░░░░░░ 23%
+  █████████░░░░░░░░░░░░░░░░ 26%
 </p>
 
 <p align="center">
-🔥 23 / 100 Days Completed
+🔥 26 / 100 Days Completed
 </p>
 
 ---
