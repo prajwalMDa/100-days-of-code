@@ -48,11 +48,11 @@
 [![View Day 02](https://img.shields.io/badge/Day%2002-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-002)
 
 **Progress**
-- ASCII Pattern ("PRAJWAL")  
-- Number Pyramid  
-- Palindromic Pattern  
-- Floyd’s Triangle  
-- Binary Pattern  
+- ASCII Pattern ("PRAJWAL")
+- Number Pyramid
+- Palindromic Pattern
+- Floyd’s Triangle
+- Binary Pattern
 - Hourglass Pattern  
 - Zig-Zag Pattern  
 
@@ -303,8 +303,21 @@
 
 ---
 
+### 🟢 Day 26 - Recursion Basics  
+[![View Day 26](https://img.shields.io/badge/Day%2026-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-026)
+
+**Progress**
+- Occurrences in Array using Recursion
+- Number to Words Conversion using Recursion
+- Palindrome Check using Recursion
+- String Length using Recursion
+- Move Characters to End using Recursion
+- Debugging recursive call flows
+
+---
+
 ### 🟢 Progress
-[![View Day 26](https://img.shields.io/badge/Progress-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-026)
+[![View Day 27](https://img.shields.io/badge/Progress-View-blue?style=for-the-badge)](https://github.com/prajwalMDa/100-days-of-code/tree/main/DAY-027)
 
 **Programs:**
 - Work in Progress  
